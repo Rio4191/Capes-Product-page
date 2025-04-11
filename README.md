@@ -20,7 +20,7 @@ This landing page showcases the premium **MagSafe Wallet Pro**, highlighting its
 ## 📂 Project Structure
 
 ```
-Web dev task/
+Capes-Product-page/
 ├── index.html
 ├── script.js
 ├── style.css
