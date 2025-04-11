@@ -2,10 +2,6 @@
 
 A modern, responsive, and elegant product landing page for the **MagSafe Wallet Pro with Stand**, crafted for Capes India's web development internship assignment.
 
-## 🔥 Live Preview
-
-🚀 Coming soon...
-
 ## 📸 Overview
 
 This landing page showcases the premium **MagSafe Wallet Pro**, highlighting its sleek design, innovative features, customer testimonials, and a gallery of product images – all tied together with a clean, user-friendly interface.
@@ -24,13 +20,19 @@ This landing page showcases the premium **MagSafe Wallet Pro**, highlighting its
 ## 📂 Project Structure
 
 ```
-MagSafe_Wallet_Landing_Page/
+Web dev task/
 ├── index.html
+├── script.js
 ├── style.css
-├── assets/
-│   ├── gallery1.jpg
-│   ├── gallery2.jpg
-│   └── gallery3.jpg
+├── styles.css
+├── Hero.jpg
+├── heroimage.jpg
+├── images.png
+├── iphone.jpeg
+├── magsafe_front.jpg
+├── magsafewithstand.jpg
+├── stand_mode.jpg
+└── with_iphone.jpeg
 ```
 
 ---
@@ -48,28 +50,14 @@ MagSafe_Wallet_Landing_Page/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/magsafe-wallet-landing-page.git
+   git clone https://github.com/Rio4191/Capes-Product-page.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd magsafe-wallet-landing-page
+   cd Capes-Product-page
    ```
 
 3. Open `index.html` in your browser to view the landing page.
 
 ---
-
-## 📬 Contact
-
-Have suggestions or feedback? Reach out to:
-
-**Capes India**  
-📧 support@capesindia.com  
-🌐 [www.capesindia.com](https://www.capesindia.com)
-
----
-
-## 📄 License
-
-This project is for **educational and demonstration purposes only**. All rights reserved © Capes India 2025.
